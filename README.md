@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu Prabhas
 - 👀 I’m interested in Data Science, Machine Learning, Sports Science and Analytics
-- 🌱 I’m currently learning M.E in BigData and Data Analytics
+- 🌱 I’m currently pursuing M.E in BigData and Data Analytics
 
 
 
